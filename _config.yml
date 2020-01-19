@@ -54,9 +54,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : F.Mekaru
+  name   : 
   avatar : 
-  bio    : Como vim parar aqui?!
+  bio    : 
   links:
     - label:
       icon:
