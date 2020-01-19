@@ -18,6 +18,7 @@ description: Retomando leituras de Adorno, um fichamento ruim por vez.
 minimal_mistakes_skin: default
 search: true
 breadcrumbs: true
+theme: minimal-mistakes-jekyll
 
 # Build settings
 markdown: kramdown
