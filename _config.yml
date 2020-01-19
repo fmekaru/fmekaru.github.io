@@ -19,7 +19,7 @@ minimal_mistakes_skin: default
 search: true
 breadcrumbs: true
 theme: minimal-mistakes-jekyll
-site.locale: pt-BR
+locale: pt-BR
 
 # Build settings
 markdown: kramdown
