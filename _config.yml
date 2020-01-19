@@ -14,12 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Diário de Leitura
-email:
 description: Retomando leituras de Adorno, um fichamento ruim por vez.
-twitter_username: 
-github_username: 
 minimal_mistakes_skin: default
 search: true
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
