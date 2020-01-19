@@ -1,27 +1,39 @@
-# Minimal Mistakes remote theme starter
+## Espera... Esse layout... Essa cara de conteúdo vinda direto dos anos 2000... Isso é um blog?!
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Sim, esse é um blog. Em 2020. Feito meio artesanalmente em uma plataforma que originalmente não foi feita pra isso. E que, por conta disso, fez com que eu ficasse pouco mais de três horas para fazer o setup todo. Urge perguntar: _por que fazer isso, me diga?!_
 
-Contains basic configuration to get you a site with:
+Antes de responder a isso, vamos falar de peixes? Sempre que penso em peixes, o primeiro que me vem à cabeça são os celacantos.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Celacantos são pertencentes a uma classe de peixes antiquíssima: alguns espécimes fossilizados são datados do Período Triássico, há 250 milhões de anos atrás, e até o início do século XX acreditava-se que eles foram vítimas da Grande Extinção do fim da Era Mesozóica, há 66 milhões de anos atrás. Porém, em 1938 um espécime vivo foi descoberto na África do Sul, o que deixou muita gente embasbacada e rendeu ao peixe a alcunha de "fóssil vivo". O celacanto é um exemplo lindo da seleção natural dando muito certo: por serem muito bem adaptados ao ambiente em que vivem, eles não precisaram mudar muito enquanto ordem de peixes ao longo de 66 milhões de anos.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Como costuma acontecer com alguma frequência neste planeta, 66 milhões de anos de resiliência evolutiva valem muito pouco frente à voracidade humana: atualmente, os celacantos correm risco de extinção devido a práticas predatórias de pesca. Fora os colecionadores e museus, os celacantos não possuem muito interesse comercial - e talvez isso esteja ajudando um pouco a acelerar o seu processo de desaparecimento.
 
----
+Pra mim, os blogs pessoais são os celacantos da internet: foram das primeiras coisas que apareceram naquilo que consideramos que seja a internet mais ou menos como conhecemos atualmente, tem um formatão que até hoje é mais ou menos o mesmo e funciona muito bem para o que se propõe, foram suplantados por formatos e  plataformas que são seus descendentes, possuem interesse comercial restritíssimo e muito provavelmente estão destinados a morrer mais cedo ou mais tarde devido à maneira predatória que se estabeleceu para produzir e difundir conteúdos na internet - eles só permanecem vivos devido a alguns excêntricos que ainda insistem no formato.
 
-## Troubleshooting
+Essa aqui é o meu celacanto de estimação, que decidi cuidar em 2020.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+E vou usá-lo para fazer registros de outro fóssil cultural: as minhas leituras comentadas sobre algumas obras de Theodor Adorno.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Mas... Adorno?! Sério mesmo?!
+
+Sim, sério mesmo.
+
+E não precisa falar de todas as controvérsias que cercam a figura - estou bem a par delas. Da relação elitista com a música, das sacanagens com o Benjamin, da personalidade insuportável, e **especialmente** a birra com jazz e todas os pressupostos condenáveis que estão a reboque disso.
+
+Mas talvez até por isso tudo seja importante retomar uma leitura aprofundada sobre as obras dele: para saber o quanto que ele realmente ajuda a compreender a contemporaneidade, e se ainda vale a pena falar de Adorno no século XXI ou se ele deve ficar relegado ao estereótipo de "aquele careca prolixo que odeia jazz".
+
+(A real é que tou com um monte de livros dele parados há algum tempo, lembranças de uma outra época da minha vida, e estou com um pouco de remorso de deixá-los sem uso. Além disso, por alguns motivos preciso retomar o hábito de leitura e escrita densas ainda esse ano. O blog é um jeito de resolver todas essas coisas.)
+
+## E como é que você planeja fazer isso?
+
+A ideia é, pelo menos uma vez por semana, fazer uma leitura comentada de um capítulo de um livro de Tedinho, com citações e afins e reflexões diversas. Não tenho pretensões acadêmicas com esse projeto, então a coisa toda vai ser um pouco solta (em diversos sentidos).
+
+Pretendo começar com **As Estrelas Descem à Terra**, que propõe um estudo sociológico sobre um fenômeno de cultura de massa que me parece estar particularmente forte nos últimos anos - a astrologia. É um livro menos denso, com um tema pelo qual me interesso marginalmente e, o mais importante, ele é curtinho. Parece ser um ótimo ponto de partida para isso.
+
+## Certo... E o que mais?
+
+Como dito lá em cima, isso aqui é meio artesanal, e ainda estou lutando bastante para conseguir entregar o que acredito ser um template de blog minimamente funcional. Provavelmente essa será a única postagem por algum tempo; a luta principal agora é com a criação de um layout decente.
+
+## Ah... Então tá bom. Vai lá.
+
+Vamos sim!
