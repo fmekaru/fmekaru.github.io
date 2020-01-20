@@ -5,3 +5,7 @@ main:
     url: /tags/
   - title: "Sobre"
     url: /about/
+
+about:
+  - title: "Sobre este blog"
+    text: "Retomando leituras de Adorno, um fichamento ruim por vez. Clique nos títulos dos posts para expandir.
