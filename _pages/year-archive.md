@@ -1,5 +1,5 @@
 ---
-title: "Arquivo geral (por ano)"
+title: "Arquivo geral"
 permalink: /posts/
 layout: posts
 author_profile: true
