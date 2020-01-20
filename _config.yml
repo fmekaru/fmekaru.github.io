@@ -85,9 +85,6 @@ footer:
       url:
 
 defaults:
-  - sidebar:
-    title: ""
-    text: "Retomando leituras de Adorno, um fichamento ruim por vez."
   # _posts
   - scope:
       path: ""
