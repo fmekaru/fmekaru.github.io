@@ -1,8 +1,6 @@
 main:
   - title: "Textos"
     url: /posts/
-  - title: "Categorias"
-    url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "Sobre"
