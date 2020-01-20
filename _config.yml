@@ -103,9 +103,9 @@ defaults:
     values:
       layout: single
       author_profile: false
-      sidebar:
-        Title: " "
-        text: "Retomando leituras de Adorno, um fichamento ruim por vez."
+    sidebar:
+      title: "Teste"
+      text: "Retomando leituras de Adorno, um fichamento ruim por vez."
 
 
 category_archive:
