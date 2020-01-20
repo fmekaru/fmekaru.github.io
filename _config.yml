@@ -91,8 +91,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
       related: true
@@ -102,11 +102,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-  # Conteúdo da Sidebar. Use a combinação "- title" para criar novos campos.
-  - sidebar:
-    - title: ""
-      text: "Retomando leituras de Adorno, um fichamento ruim por vez."
+      author_profile: false
+      sidebar:
+        - Title: ""
+        text: "Retomando leituras de Adorno, um fichamento ruim por vez."
+
 
 category_archive:
   type: liquid
