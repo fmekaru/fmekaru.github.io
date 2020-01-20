@@ -21,6 +21,12 @@ breadcrumbs: false
 theme: minimal-mistakes-jekyll
 locale: pt-BR
 
+# Conteúdo da Sidebar. Use a combinação "- title" para criar novos campos.
+
+sidebar:
+  - title: ""
+    text: "Retomando leituras de Adorno, um fichamento ruim por vez."
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
