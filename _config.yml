@@ -17,7 +17,7 @@ title: Diário de Leitura
 description: Retomando leituras de Adorno, um fichamento ruim por vez.
 minimal_mistakes_skin: default
 search: true
-breadcrumbs: false
+breadcrumbs: true
 theme: minimal-mistakes-jekyll
 locale: pt-BR
 
