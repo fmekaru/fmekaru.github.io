@@ -103,6 +103,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+    sidebar:
+      nav: "about"
 
 
 category_archive:
