@@ -1,5 +1,5 @@
 main:
-  - title: "Textos"
+  - title: "Arquivo"
     url: /posts/
   - title: "Tags"
     url: /tags/
